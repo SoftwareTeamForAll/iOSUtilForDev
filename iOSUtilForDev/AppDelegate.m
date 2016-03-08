@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    // Developer should add descriptions with English
+    // Developer should add descriptions with English.
     return YES;
 }
 
