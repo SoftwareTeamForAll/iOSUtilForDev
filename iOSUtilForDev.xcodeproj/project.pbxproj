@@ -16,6 +16,14 @@
 		45E530771C8EC3CF00A80468 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45E530751C8EC3CF00A80468 /* LaunchScreen.storyboard */; };
 		45E530821C8EC3CF00A80468 /* iOSUtilForDevTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E530811C8EC3CF00A80468 /* iOSUtilForDevTests.m */; };
 		45E5308D1C8EC3CF00A80468 /* iOSUtilForDevUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 45E5308C1C8EC3CF00A80468 /* iOSUtilForDevUITests.m */; };
+		45F78FB21C8FD4030044DAFA /* TimeMachine.m in Sources */ = {isa = PBXBuildFile; fileRef = 45F78FB11C8FD4030044DAFA /* TimeMachine.m */; };
+		45F78FB51C8FD4600044DAFA /* NetWorkingHttpAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 45F78FB41C8FD4600044DAFA /* NetWorkingHttpAPI.m */; };
+		45F78FB81C8FD4810044DAFA /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 45F78FB71C8FD4810044DAFA /* BaseViewController.m */; };
+		45F78FBB1C8FD4C40044DAFA /* ContributorInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 45F78FBA1C8FD4C40044DAFA /* ContributorInfo.m */; };
+		45F78FBF1C8FD5160044DAFA /* ContributorData.m in Sources */ = {isa = PBXBuildFile; fileRef = 45F78FBE1C8FD5160044DAFA /* ContributorData.m */; };
+		45F78FC31C8FD5900044DAFA /* BaseStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45F78FC21C8FD5900044DAFA /* BaseStoryboard.storyboard */; };
+		45F78FC51C8FD5BD0044DAFA /* BaseXib.xib in Resources */ = {isa = PBXBuildFile; fileRef = 45F78FC41C8FD5BD0044DAFA /* BaseXib.xib */; };
+		45F78FC91C8FD6090044DAFA /* BaseTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 45F78FC81C8FD6090044DAFA /* BaseTableViewCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +61,20 @@
 		45E530881C8EC3CF00A80468 /* iOSUtilForDevUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = iOSUtilForDevUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		45E5308C1C8EC3CF00A80468 /* iOSUtilForDevUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = iOSUtilForDevUITests.m; sourceTree = "<group>"; };
 		45E5308E1C8EC3CF00A80468 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45F78FB01C8FD4030044DAFA /* TimeMachine.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TimeMachine.h; sourceTree = "<group>"; };
+		45F78FB11C8FD4030044DAFA /* TimeMachine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TimeMachine.m; sourceTree = "<group>"; };
+		45F78FB31C8FD4600044DAFA /* NetWorkingHttpAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetWorkingHttpAPI.h; sourceTree = "<group>"; };
+		45F78FB41C8FD4600044DAFA /* NetWorkingHttpAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NetWorkingHttpAPI.m; sourceTree = "<group>"; };
+		45F78FB61C8FD4810044DAFA /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BaseViewController.h; path = iOSUtilForDev/ViewControllers/BaseViewController.h; sourceTree = SOURCE_ROOT; };
+		45F78FB71C8FD4810044DAFA /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = BaseViewController.m; path = iOSUtilForDev/ViewControllers/BaseViewController.m; sourceTree = SOURCE_ROOT; };
+		45F78FB91C8FD4C40044DAFA /* ContributorInfo.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContributorInfo.h; sourceTree = "<group>"; };
+		45F78FBA1C8FD4C40044DAFA /* ContributorInfo.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContributorInfo.m; sourceTree = "<group>"; };
+		45F78FBD1C8FD5160044DAFA /* ContributorData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ContributorData.h; sourceTree = "<group>"; };
+		45F78FBE1C8FD5160044DAFA /* ContributorData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ContributorData.m; sourceTree = "<group>"; };
+		45F78FC21C8FD5900044DAFA /* BaseStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = BaseStoryboard.storyboard; sourceTree = "<group>"; };
+		45F78FC41C8FD5BD0044DAFA /* BaseXib.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = BaseXib.xib; sourceTree = "<group>"; };
+		45F78FC71C8FD6090044DAFA /* BaseTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseTableViewCell.h; sourceTree = "<group>"; };
+		45F78FC81C8FD6090044DAFA /* BaseTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseTableViewCell.m; sourceTree = "<group>"; };
 		8A415073F1A9B1B649D63064 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		94A5C9B19C67BAA5AC522E05 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -162,6 +184,8 @@
 		45E5309A1C8ECE7700A80468 /* Utils */ = {
 			isa = PBXGroup;
 			children = (
+				45F78FB01C8FD4030044DAFA /* TimeMachine.h */,
+				45F78FB11C8FD4030044DAFA /* TimeMachine.m */,
 			);
 			path = Utils;
 			sourceTree = "<group>";
@@ -169,6 +193,11 @@
 		45E5309B1C8ECE7700A80468 /* Viewcontrollers */ = {
 			isa = PBXGroup;
 			children = (
+				45F78FC61C8FD5F00044DAFA /* TableViewCells */,
+				45F78FC01C8FD55B0044DAFA /* Storybords */,
+				45F78FC11C8FD55B0044DAFA /* Xibs */,
+				45F78FB61C8FD4810044DAFA /* BaseViewController.h */,
+				45F78FB71C8FD4810044DAFA /* BaseViewController.m */,
 			);
 			path = Viewcontrollers;
 			sourceTree = "<group>";
@@ -176,6 +205,9 @@
 		45E5309C1C8ECE7700A80468 /* Service */ = {
 			isa = PBXGroup;
 			children = (
+				45F78FBC1C8FD4F70044DAFA /* DataCenter */,
+				45F78FB31C8FD4600044DAFA /* NetWorkingHttpAPI.h */,
+				45F78FB41C8FD4600044DAFA /* NetWorkingHttpAPI.m */,
 			);
 			path = Service;
 			sourceTree = "<group>";
@@ -183,9 +215,48 @@
 		45E5309D1C8ECE7700A80468 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				45F78FB91C8FD4C40044DAFA /* ContributorInfo.h */,
+				45F78FBA1C8FD4C40044DAFA /* ContributorInfo.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
+		};
+		45F78FBC1C8FD4F70044DAFA /* DataCenter */ = {
+			isa = PBXGroup;
+			children = (
+				45F78FBD1C8FD5160044DAFA /* ContributorData.h */,
+				45F78FBE1C8FD5160044DAFA /* ContributorData.m */,
+			);
+			path = DataCenter;
+			sourceTree = "<group>";
+		};
+		45F78FC01C8FD55B0044DAFA /* Storybords */ = {
+			isa = PBXGroup;
+			children = (
+				45F78FC21C8FD5900044DAFA /* BaseStoryboard.storyboard */,
+			);
+			name = Storybords;
+			path = iOSUtilForDev/ViewControllers/Storybords;
+			sourceTree = SOURCE_ROOT;
+		};
+		45F78FC11C8FD55B0044DAFA /* Xibs */ = {
+			isa = PBXGroup;
+			children = (
+				45F78FC41C8FD5BD0044DAFA /* BaseXib.xib */,
+			);
+			name = Xibs;
+			path = iOSUtilForDev/ViewControllers/Xibs;
+			sourceTree = SOURCE_ROOT;
+		};
+		45F78FC61C8FD5F00044DAFA /* TableViewCells */ = {
+			isa = PBXGroup;
+			children = (
+				45F78FC71C8FD6090044DAFA /* BaseTableViewCell.h */,
+				45F78FC81C8FD6090044DAFA /* BaseTableViewCell.m */,
+			);
+			name = TableViewCells;
+			path = iOSUtilForDev/ViewControllers/TableViewCells;
+			sourceTree = SOURCE_ROOT;
 		};
 		725513F3FBA86282EC13C780 /* Pods */ = {
 			isa = PBXGroup;
@@ -301,8 +372,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45F78FC31C8FD5900044DAFA /* BaseStoryboard.storyboard in Resources */,
 				45E530771C8EC3CF00A80468 /* LaunchScreen.storyboard in Resources */,
 				45E530741C8EC3CF00A80468 /* Assets.xcassets in Resources */,
+				45F78FC51C8FD5BD0044DAFA /* BaseXib.xib in Resources */,
 				45E530721C8EC3CF00A80468 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -361,7 +434,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				45F78FC91C8FD6090044DAFA /* BaseTableViewCell.m in Sources */,
+				45F78FB21C8FD4030044DAFA /* TimeMachine.m in Sources */,
+				45F78FBF1C8FD5160044DAFA /* ContributorData.m in Sources */,
+				45F78FB81C8FD4810044DAFA /* BaseViewController.m in Sources */,
 				45E5306F1C8EC3CF00A80468 /* ViewController.m in Sources */,
+				45F78FB51C8FD4600044DAFA /* NetWorkingHttpAPI.m in Sources */,
+				45F78FBB1C8FD4C40044DAFA /* ContributorInfo.m in Sources */,
 				45E5306C1C8EC3CF00A80468 /* AppDelegate.m in Sources */,
 				45E530691C8EC3CF00A80468 /* main.m in Sources */,
 			);
