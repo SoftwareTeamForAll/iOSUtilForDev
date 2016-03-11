@@ -42,6 +42,12 @@
 #define COCOAPODS_VERSION_MINOR_AFNetworking_UIKit 0
 #define COCOAPODS_VERSION_PATCH_AFNetworking_UIKit 4
 
+// BaiduMapKit
+#define COCOAPODS_POD_AVAILABLE_BaiduMapKit
+#define COCOAPODS_VERSION_MAJOR_BaiduMapKit 2
+#define COCOAPODS_VERSION_MINOR_BaiduMapKit 10
+#define COCOAPODS_VERSION_PATCH_BaiduMapKit 0
+
 // ConciseKit
 #define COCOAPODS_POD_AVAILABLE_ConciseKit
 #define COCOAPODS_VERSION_MAJOR_ConciseKit 0

@@ -158,6 +158,7 @@
 		45E530671C8EC3CF00A80468 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				45EAA4471C92BECF008DD46F /* Resource */,
 				45E530681C8EC3CF00A80468 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -219,6 +220,13 @@
 				45F78FBA1C8FD4C40044DAFA /* ContributorInfo.m */,
 			);
 			path = Model;
+			sourceTree = "<group>";
+		};
+		45EAA4471C92BECF008DD46F /* Resource */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resource;
 			sourceTree = "<group>";
 		};
 		45F78FBC1C8FD4F70044DAFA /* DataCenter */ = {

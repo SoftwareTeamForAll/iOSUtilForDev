@@ -43,7 +43,8 @@ install_resource()
       ;;
   esac
 }
-          install_resource "SAMAddressBar/Resources/SAMAddressBar-background.png"
+          install_resource "BaiduMapKit/BaiduMapKit/BaiduMapAPI_Map.framework/Resources/mapapi.bundle"
+                    install_resource "SAMAddressBar/Resources/SAMAddressBar-background.png"
                     install_resource "SAMAddressBar/Resources/SAMAddressBar-background@2x.png"
                     install_resource "SAMAddressBar/Resources/SAMAddressBar-reload.png"
                     install_resource "SAMAddressBar/Resources/SAMAddressBar-reload@2x.png"

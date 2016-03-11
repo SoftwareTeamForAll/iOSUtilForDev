@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7960169AB829DEF0251B6143"
+               BlueprintIdentifier = "1358DD80058534EA7C5FABFE"
                BuildableName = "JSBadgeView.bundle"
                BlueprintName = "JSBadgeView"
                ReferencedContainer = "container:Pods.xcodeproj">
