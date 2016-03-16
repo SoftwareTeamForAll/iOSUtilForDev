@@ -4,11 +4,6 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>JSBadgeView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-AFNetworking.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -19,22 +14,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-ConciseKit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-Google-Maps-iOS-SDK.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
 		<key>Pods-HMSegmentedControl.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-JSBadgeView.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -59,72 +44,7 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-MagicalRecord.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-Reachability.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMAddressBar.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMBadgeView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMCategories.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMCircleProgressView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMGradientView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMHUDView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMLabel.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMLoadingView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMRateLimit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMTextField.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMTextView.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
-		<key>Pods-SAMWebView.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -149,11 +69,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-SSToolkit.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -162,157 +77,72 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>17AD9F8185A396F0891DE0A6</key>
+		<key>00FC5A0D6536BBE4BB6D4596</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>1B9BFE4E79D6FE8307EBBCC7</key>
+		<key>135B4C2AE66AA1989B476C01</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>2D671E76AB577AE015F6E4B0</key>
+		<key>282A97687AB82C828988ED40</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>2E221701BD0AA3E932AA396C</key>
+		<key>3955E1ED11264EE89BDB5CCF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>378D74F8052C7D78B01B0548</key>
+		<key>49F65193971DF6D907233ED5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>3CBC66E330CF294FDAE664FF</key>
+		<key>564994551ECBB923B1B003FA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>449B6A07F8BEE267EDD02352</key>
+		<key>5958ED464BC562712A5D24FF</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4D5B9F8C4A286D161F7CF8FF</key>
+		<key>63C434B445835BE719962173</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5523EC43DF5D5595F7820830</key>
+		<key>8309962FD57548A2FA723F7C</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>58537DB19367B3F29BD23842</key>
+		<key>99A8B33A5B95894346FEB66B</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>5F59CB268C7755787CA831AC</key>
+		<key>9EE145DA647BBF4B2E414647</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>6C61D664469B076A4DF454FC</key>
+		<key>C4C0F736BB6CA50A8CF45FB2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7C2FD4375B15A4CAB545A7B7</key>
+		<key>DE4B407609B27ACEF23233BC</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>91D05B0A63C82C1DD072C643</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>95FC297FD09BC12F0CFFABB3</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>9D322E6AD4049A6D052AA153</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A070CB1BA9CE9D2E359B0D8C</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>A15FE316FC60CF36FF04F779</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>ADFFF00A538839F15492B6D0</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>AE805836ECAABC783EE6FD94</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>B491E729E934BBDB4A51BC60</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>B6ACD6A97CFD69700C6A8625</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>C26B5A3AA203F97E980E481E</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>C5AE15DA1766B143DEE9DB4F</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>C7F333F15EFFEBB291267B26</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>CEC5F3E176E541A90DFD54FD</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>D956B417DAA1A53AE3B3FFDF</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>DDA5ED44790B8CE4D5256C83</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>EDE7D0B2C78B0DEB1CE3F198</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>F61FED072EF7E8E1120683AD</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>FAF39EE1AA54ADA3D31DAB28</key>
+		<key>E17ACD375B8479318AD2B876</key>
 		<dict>
 			<key>primary</key>
 			<true/>

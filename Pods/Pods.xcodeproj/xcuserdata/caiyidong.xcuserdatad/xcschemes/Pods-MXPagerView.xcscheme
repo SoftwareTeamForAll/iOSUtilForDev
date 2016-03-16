@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "ADFFF00A538839F15492B6D0"
+               BlueprintIdentifier = "49F65193971DF6D907233ED5"
                BuildableName = "libPods-MXPagerView.a"
                BlueprintName = "Pods-MXPagerView"
                ReferencedContainer = "container:Pods.xcodeproj">

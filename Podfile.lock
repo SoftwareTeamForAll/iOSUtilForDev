@@ -21,14 +21,9 @@ PODS:
     - AFNetworking/NSURLConnection
     - AFNetworking/NSURLSession
   - BaiduMapKit (2.10.0)
-  - ConciseKit (0.1.2)
   - Google-Maps-iOS-SDK (1.4.3)
   - HMSegmentedControl (1.5.2)
-  - JSBadgeView (1.4.1)
   - M13ProgressSuite (1.2.7)
-  - MagicalRecord (2.3.2):
-    - MagicalRecord/Core
-  - MagicalRecord/Core (2.3.2)
   - MXPagerView (0.1.2)
   - MXParallaxHeader (0.4.3)
   - MXSegmentedPager (3.0.4):
@@ -36,81 +31,36 @@ PODS:
     - MXPagerView (~> 0.1.2)
     - MXParallaxHeader (~> 0.4.3)
   - Reachability (3.2)
-  - SAMAddressBar (0.1.0)
-  - SAMBadgeView (0.1.1)
-  - SAMCategories (0.5.2)
-  - SAMCircleProgressView (0.1.1)
-  - SAMGradientView (0.2.1)
-  - SAMHUDView (0.1.3)
-  - SAMLabel (0.1.0)
-  - SAMLoadingView (0.1.0)
-  - SAMRateLimit (0.2.1)
-  - SAMTextField (0.1.2)
-  - SAMTextView (0.2.2)
-  - SAMWebView (0.2.1)
   - SBJson (4.0.2)
   - SDURLCache (1.3)
   - SFHFKeychainUtils (0.0.1)
   - SSKeychain (1.3.1)
-  - SSToolkit (2.0.0):
-    - SAMAddressBar
-    - SAMBadgeView
-    - SAMCategories
-    - SAMCircleProgressView
-    - SAMGradientView
-    - SAMHUDView
-    - SAMLabel
-    - SAMLoadingView
-    - SAMRateLimit
-    - SAMTextField
-    - SAMTextView
-    - SAMWebView
 
 DEPENDENCIES:
   - AFNetworking (~> 2.5.4)
   - BaiduMapKit
-  - ConciseKit
   - Google-Maps-iOS-SDK (~> 1.4.3)
-  - JSBadgeView
   - M13ProgressSuite (~> 1.2.7)
-  - MagicalRecord
   - MXSegmentedPager
   - Reachability
   - SBJson
   - SDURLCache
   - SFHFKeychainUtils
   - SSKeychain
-  - SSToolkit
 
 SPEC CHECKSUMS:
   AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
   BaiduMapKit: 5df028c6b455d29e68e89694adbcf9d37a4bcc99
-  ConciseKit: 6eda679f3a18c050490e018eae2b497e656055ff
   Google-Maps-iOS-SDK: 9077b3dfd06319b9c477cf3b7242dfb221e19f82
   HMSegmentedControl: 83b9686022d2176fb6457d2bdb61e5d6393fed7d
-  JSBadgeView: 3861ddee41094284d9468e6d0af5107f703aaac5
   M13ProgressSuite: 03d194af6359da440641ba758aed5a18b0386a86
-  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
   MXPagerView: b0cc1695ff8470a1bb1628e25e8878eb94606a60
   MXParallaxHeader: 96d9e7c392a26b29b97ddc34bff904a9c0baef27
   MXSegmentedPager: 48a6129c823a3a5c6f5809c43463dbdf8351f528
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
-  SAMAddressBar: ca4278987cca36a65fd8d29fae3fc5f3fa732469
-  SAMBadgeView: f27d499b7f233e29277325f318a9dcdd2a8fc9e9
-  SAMCategories: bf8287f7961a0b343168d1fee16338dc1626ea39
-  SAMCircleProgressView: 8bfac68a15d1dd1e3d0c1ec411895898efed9dda
-  SAMGradientView: dd5edfe971cea0f1f3369b49f5fb255c0ff3921a
-  SAMHUDView: 374d9b53c2d52bf2e7b49e943ae66ee7ed5538b2
-  SAMLabel: 3792d68d0a04da5600420843d44ec50631695c15
-  SAMLoadingView: 7ffc4f0efe85f9717d6e367b6b93e32befe4407c
-  SAMRateLimit: 5514d7c95a4b98ff9616f965c132252fbff0c5b7
-  SAMTextField: a0f4eb5b48b45aef56453c265262b45154bc3e2a
-  SAMTextView: 979c43bb1fa5859ddfbfeb35e9c296a2b0ec55fd
-  SAMWebView: d141ed60d23f82a0cbfeeb952e93a690f55bc89f
   SBJson: c18691cc18375b14664ff0fec841f8c4faef1934
   SDURLCache: 8b271cce7263032f6345b6dc838dea23c98844ac
   SFHFKeychainUtils: 9576b411a79a058f4d5381ace6f3242b9a62e664
   SSKeychain: 04c4ec40f4c3deda524e269bc76e5f30e638a174
-  SSToolkit: 6aa7a0966ee45788d0ec3748be7d753a2fef9629
 
 COCOAPODS: 0.34.4
