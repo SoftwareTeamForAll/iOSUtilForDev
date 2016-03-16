@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "FF047F873F44426B81AA65B3"
+               BlueprintIdentifier = "5523EC43DF5D5595F7820830"
                BuildableName = "libPods-SAMHUDView.a"
                BlueprintName = "Pods-SAMHUDView"
                ReferencedContainer = "container:Pods.xcodeproj">

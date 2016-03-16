@@ -44,6 +44,7 @@ install_resource()
   esac
 }
           install_resource "BaiduMapKit/BaiduMapKit/BaiduMapAPI_Map.framework/Resources/mapapi.bundle"
+                    install_resource "Google-Maps-iOS-SDK/GoogleMaps.framework/Versions/A/Resources/GoogleMaps.bundle"
                     install_resource "SAMAddressBar/Resources/SAMAddressBar-background.png"
                     install_resource "SAMAddressBar/Resources/SAMAddressBar-background@2x.png"
                     install_resource "SAMAddressBar/Resources/SAMAddressBar-reload.png"

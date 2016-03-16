@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "CC301B66794D94729A8246AA"
+               BlueprintIdentifier = "C7F333F15EFFEBB291267B26"
                BuildableName = "libPods-MXParallaxHeader.a"
                BlueprintName = "Pods-MXParallaxHeader"
                ReferencedContainer = "container:Pods.xcodeproj">

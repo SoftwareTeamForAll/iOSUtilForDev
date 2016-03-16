@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7C12A5518EF5804C4A7F0B68"
+               BlueprintIdentifier = "AE805836ECAABC783EE6FD94"
                BuildableName = "libPods-SAMTextField.a"
                BlueprintName = "Pods-SAMTextField"
                ReferencedContainer = "container:Pods.xcodeproj">
